@@ -1,0 +1,10 @@
+*.pyc
+*.sublime-*
+playground/*.*
+.tox
+build/
+dist/
+*.egg-info
+venv*/
+.idea/
+.python-version
