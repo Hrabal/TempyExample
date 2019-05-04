@@ -1,5 +1,5 @@
 from tempy import TempyREPR
-from tempy.tags import Span, B
+from tempy.tags import Span, B, Td
 from app import db
 
 
