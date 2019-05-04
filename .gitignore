@@ -8,3 +8,4 @@ dist/
 venv*/
 .idea/
 .python-version
+db_repository
