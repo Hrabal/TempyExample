@@ -1,6 +1,7 @@
 from tempy.tags import Div, Table, Tr, A, P, I
 from .base import BasePage, CONTACTS_ICONS
 
+
 class HomePage(BasePage):
     def init(self):
         self.body.main.container.attr(klass="album py-5 bg-light")
